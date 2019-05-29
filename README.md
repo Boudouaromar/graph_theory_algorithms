@@ -1,1 +1,1 @@
-# Ford_fulkerson
+# Implementation of graph theory algorithms.
